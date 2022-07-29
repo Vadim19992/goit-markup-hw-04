@@ -340,12 +340,13 @@ fill: currentColor;
             
 .mid-banner-new-li:hover,  
 .mid-banner-new-li:focus {
-background-color: var(--accent-color);
+    border: 1px solid var(--accent-color);
+background-color:#FFFFFF;
 }
             
 .mid-banner-new-li:hover .mid-banner-list-icon,  
 .mid-banner-new-li:focus .mid-banner-list-icon {
-fill:#FFFFFF;   
+fill: var(--accent-color);   
 }
 
 .mid-banner-new-up:not(:last-child) {
