@@ -340,8 +340,7 @@ fill: currentColor;
             
 .mid-banner-new-li:hover,  
 .mid-banner-new-li:focus {
-    border: 1px solid var(--accent-color);
-background-color:#FFFFFF;
+border: 1px solid var(--accent-color);
 }
             
 .mid-banner-new-li:hover .mid-banner-list-icon,  
@@ -350,7 +349,7 @@ fill: var(--accent-color);
 }
 
 .mid-banner-new-up:not(:last-child) {
-    margin-right: 30px;
+margin-right: 30px;
 }
 
 .name { 
